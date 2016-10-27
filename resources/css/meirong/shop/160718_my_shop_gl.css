@@ -1,0 +1,54 @@
+/*超出显示省略号（1行）*/
+.hid_slh1{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;-webkit-text-overflow:ellipsis;}
+/*超出显示省略号（2行）*/
+.hid_slh2{overflow : hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;}
+.hid_slh2{overflow : hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;}
+
+.my_shop_gl_box{width: 100%; height: 642px;}
+.my_shop_gl_false{width: 640px; height: 642px; overflow: hidden;}
+.my_shop_gl_false_icon{width: 220px; height: 220px; background: url("../../../images/meirong/shop/20160718_yy_fwh/shop_no_gl_icon.png") no-repeat; margin: 74px auto 0;}
+.my_shop_gl_false_p1{width: 100%; height: 70px; color: #7c7c7c; font-size: 30px; line-height: 70px; text-align: center; margin: 35px 0 25px 0}
+.btn_gl_my_shop{display: block; width: 580px; height: 84px; background-color: #ff5ebd; font-size: 30px; color: #ffffff; text-align: center; line-height: 84px; margin: 0 auto 0; text-decoration: none; border-radius: 10px;}
+.btn_gl_my_shop:hover{color: #fff;}
+
+.my_shop_null{width: 640px; height: 642px; overflow: hidden;}
+.my_shop_null_icon{width: 220px; height: 220px; background: url("../../../images/meirong/shop/20160718_yy_fwh/shop_null_icon.png") no-repeat; margin: 74px auto 0;}
+.my_shop_null_p1{width: 100%; height: 50px; color: #7c7c7c; font-size: 30px; line-height: 50px; text-align: center; margin: 35px 0 0px 0}
+.my_shop_null_p2{width: 100%; height: 50px; color: #7c7c7c; font-size: 30px; line-height: 50px; text-align: center; }
+
+/*附近美丽店*/
+.near_beautiful_shop{width: 620px; overflow: hidden; margin: 0 auto 0;}
+.near_beautiful_shop_title{width: 620px; height: 35px; color: #7c7c7c; font-size: 30px; line-height: 35px; }
+.near_beautiful_shop_title span{display: block; width: 4px; height: 30px; background-color: #ff5ebd; float: left; margin: 3px 10px 0 0; margin-left: 20px;}
+
+.near_beautiful_shop_list{width: 620px; overflow: hidden; }
+.near_beautiful_shop_box{width: 180px; margin: 20px 0 0 20px; float: left;}
+.near_beautiful_shop_pic{width: 180px; height: 180px; position: relative;}
+.near_beautiful_shop_pic img{display: block; width: 100%; }
+.near_beautiful_shop_distance{display: block; width: 68px; height: 34px; background: rgba(0,0,0,0.8); position: absolute; bottom: 0px; right: 0px; color: #e4e4e4; font-size: 18px; text-align: center; line-height: 34px;}
+.near_beautiful_shop_add{width: 180px; color: #444444; font-size: 24px; margin-top: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

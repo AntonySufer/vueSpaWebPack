@@ -1,0 +1,28 @@
+.yz_phone_box{width: 640px; overflow: hidden;}
+.phone_number_box{width: 640px; height: 80px; border-top: 1px solid #e4e4e4; border-bottom: 1px solid #e4e4e4; margin-top: 100px; background-color: #fff;}
+.phone_number_box_p1{width: 140px; height: 80px; float: left; margin: 0px 25px 0 0; font-size: 24px; color: #444444; line-height: 80px; text-align: right;}
+.phone_number_box_inp{display: block; width: 295px; height: 70px; float: left; font-size: 24px; margin-top: 4px; border: 0px; color: #444; }
+.phone_number_box_inp:hover{border: 0px;}
+.phone_number_box_inp:active{border: 0px;}
+.phone_number_box_xian{display: block; width:1px; height: 40px; background-color: #e4e4e4; float: left; margin-top: 20px; margin-left: 10px;}
+.btn_get_yzm{display: block; width: 128px; height: 30px; color: #32abff; font-size: 24px; float: left; text-decoration: none; margin: 25px 0 0 25px; text-align: center;}
+.btn_get_yzm:hover{color: #32abff;}
+
+.btn_get_yzm_h{display: block; width: 128px; height: 30px; color: #7c7c7c; font-size: 24px; float: left; text-decoration: none; margin: 25px 0 0 25px; text-align: center;}
+.btn_get_yzm_h:hover{color: #7c7c7c;}
+
+.yzm_number_box{width: 640px; height: 80px; border-bottom: 1px solid #e4e4e4; background-color: #fff; float: left}
+
+.yzm_number_box_inp{display: block; width: 295px; height: 70px; float: left; font-size: 24px; margin-top: 4px; border: 0px; color: #444;}
+.yzm_number_box_inp:hover{border: 0px;}
+.yzm_number_box_inp:active{border: 0px;}
+
+.yz_phone_ts{width: 580px; height: 150px; margin: 20px auto 0; color: #b3b3b3; font-size: 24px; line-height: 30px;}
+
+.btn_yz_pnone_tj{display: block; width: 580px; height: 85px; background-color: #ff5ebd; font-size: 36px; color: #ffffff; text-align: center; line-height: 85px; text-decoration: none; margin: 6px auto 0; border-radius: 10px;}
+.btn_yz_pnone_tj:hover{color: #fff;}
+
+
+.btn_yz_pnone_tj_g{display: block; width: 580px; height: 85px; background-color: #7c7c7c; font-size: 36px; color: #ffffff; text-align: center; line-height: 85px; text-decoration: none; margin: 6px auto 0; border-radius: 10px;}
+
+

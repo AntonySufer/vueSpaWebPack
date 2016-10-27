@@ -1,0 +1,61 @@
+.my_kx_xiaoka{width: 580px;height: 110px;}
+.my_kx_xiaoimg{display: inline-block;height: 112px;width: 125px;padding-top: 20px;padding-left: 20px;float: left;}
+.my_kx_xiaoimg a{display: inline-block;width: 80px;height: 80px;background:pink;border-radius: 50%;}
+.my_kx_xiaoimg a img{border-radius: 50%;width: 100%;height: 100%;}
+.my_kx_xiaotit{width: 455px;height: 110px;float: right;background: url(../../../images/meirong/shop/zdy_dp/line01.png) no-repeat bottom;padding-top: 25px;padding-right: 25px;}
+.my_kx_czk{height: initial;}
+.my_kx_xiao_btn{float: right;width: 75px;height: 26px;display: inline-block;line-height: 26px;text-align: center;border: 1px solid #FFE1E1;border-radius: 10px;}
+.my_kx_xiao_btn a{width: 100%;height: 100%;display: inline-block;color: #FFE1E1;}
+.my_kx_xiaotit01{width: 335px;float: left;font-size: 24px;color: #FFFFFF;}
+.my_kx_xiaotit02{width: 335px;font-size: 28px;color: #FFFFFF;}
+.my_kx_xiaotit01 a{color: #FFE1E1;}
+.my_kx_xiaotit02 a{color: #FFE1E1;}
+.my_kx_ck{height: initial;}
+.yellow_color a{color: #FFF2E5;}
+/*首页*/
+.homepage_top{width: 640px;height: 60px;background: #FF9125;}
+.homepage_top a{width: 100%;height: 100%;display: block;}
+.homepage_top_tit{display: inline-block;width: 465px;height: 60px;line-height: 60px;text-align: right;font-size: 24px;color: #FFFFFF;}
+.homepage_top_icon{display: inline-block;width: 175px;height: 60px;padding-top: 13px;float: right;padding-top: 18px;padding-left: 10px;}
+.homepage_top_icon i{display: inline-block;width: 25px;height: 25px;background: url(../../../images/meirong/shop/zdy_dp/icon_right.png) no-repeat;}
+.homepage_nav{width: 640px;height: 170px;background: #FFFFFF;padding: 20px 30px;}
+.homepage_navimg{width: 130px;height: 130px;display: inline-block;background: palegreen;float: left;margin-right: 13px;}
+.homepage_navimg a{width: 100%;height: 100%;display: inline-block;}
+.homepage_navimg a img{width: 100%;}
+.homepage_navtit{font-size: 28px; color: #434343;}
+.icon_right02{width: 12px;height: 22px;display: inline-block;background: url(../../../images/meirong/shop/zdy_dp/right2.png)no-repeat center;margin-left: 10px;}
+.homepage_navaddress{font-size: 20px; color: #7B7B7B;width: 324px;height: 53px;overflow: hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;float: left;}
+.homepage_phone{display: inline-block;width: 70px;height: 53px; border-left: 1px solid #E3E3E3;margin-left: 25px;float: right;}
+.homepage_phone .homepage_phone_bg{width: 41px;height: 51px ;display: block;background: url(../../../images/meirong/shop/zdy_dp/phone.png) no-repeat center;float: right;}
+.homepage_xz{width: 640px;height: 150px;background: #FFFFFF;margin-top: 20px;}
+.homepage_xz .shop_nav_list{height: 150px;}
+.homepage_xz .shop_nav_list li{margin: 10px 30px 0 31px;}
+.homepage_xz .sp01{background: url(../../../images/meirong/shop/zdy_dp/sp01.png)no-repeat center;}
+.homepage_xz .sp02{background: url(../../../images/meirong/shop/zdy_dp/sp02.png)no-repeat center;}
+.homepage_xz .sp03{background: url(../../../images/meirong/shop/zdy_dp/sp03.png)no-repeat center;}
+.homepage_xz .sp04{background: url(../../../images/meirong/shop/zdy_dp/sp04.png)no-repeat center;}
+.homepage_tuijian{width: 640px;margin-top: 20px;padding-left:30px;background: #FFFFFF;}
+.homepage_tuijian_top{width: 100%;height: 70px;}
+.homepage_tuijian_topleft{width: 500px ;float: left;height: 70px;}
+.homepage_tuijian_bo01{display: block;width: 4px;height: 33px;background-color: #7B7B7B;margin-top: 20px;float: left;}
+.homepage_tuijian_bo02{display: block;width: 470px;height: 70px;color: #7B7B7B;font-size: 28px;line-height: 70px;float: left;text-indent: 10px;}
+.homepage_tuijian_top .btn_more{float: right;margin: 20px 30px 0px 0px;}
+.homepage_tuijian_center{width: 610px;height: 130px;padding-top: 20px;border-bottom: 1px solid #E7E7E7;}
+.homepage_tuijian_img{float: left;width: 90px;height: 90px;background: paleturquoise;margin-right: 15px;}
+.homepage_tuijian_img a{display: block;width: 100%;height: 100%;}
+.homepage_tuijian_img a img{width: 100%;height: 100%;}
+.homepage_tuijian_tit{width: 289px;font-size: 30px;color: #434343;float: left;}
+.homepage_tuijian_btn{float: right;width: 120px;height: 50px;text-align: center;line-height: 50px;display: inline-block;font-size: 24px;border-radius: 5px;background: #FF5DBD;margin-right: 30px;margin-top: 5px;}
+.homepage_tuijian_btn a{width: 100%;height: 100%;display: block;color: #fff;}
+.homepage_tuijian_jg{color: #F91A5E;font-size: 30px;width: 300px;float: left;}
+.homepage_ys{float: right;margin-right: 30px;color: #B3B3B3;font-size: 18px;margin-top: 5px;}
+.homepage_tuijian div:last-child{border-bottom: none;}
+.shop_guanzhu{width: 640px;height: 90px;border-bottom: 1px solid #E3E3E3;background: #FFFFFF;padding: 0px 30px;}
+.shop_guanzhu_icon{width: 32px;height: 32px;display: inline-block;border-radius: 50%;background:url(../../../images/meirong/shop/zdy_dp/yan.png)no-repeat center;margin-top: 30px;float: left;}
+.shop_guanzhu_tit{font-size: 24px;margin-left: 10px;line-height: 90px;display: inline-block;}
+.shop_guanzhu_btn{width: 120px;height: 50px;border-radius: 5px;background: #B2B2B2;line-height: 50px;text-align: center;font-size: 24px;display: inline-block;float: right;margin-top: 20px;}
+.shop_guanzhu_btn a{color: #FFFFFF;width: 100%;height: 100%;}
+.shop_guanzhu_icon02{width: 32px;height: 32px;display: inline-block;border-radius: 50%;background:url(../../../images/meirong/shop/zdy_dp/gou.png)no-repeat center;margin-top: 30px;float: left;}
+.btn_pink{background: #FF5DBC;}
+.icon_grey{background: url(../../../images/meirong/shop/zdy_dp/yan2.png)no-repeat center;}
+.icon_grey02{background: url(../../../images/meirong/shop/zdy_dp/gou2.png)no-repeat center;}

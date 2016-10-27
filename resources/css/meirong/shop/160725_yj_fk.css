@@ -1,0 +1,30 @@
+body{font-family: "微软雅黑";}
+
+.write_yj_box{width: 640px; height: 452px; background-color: #ffffff; overflow: hidden; position: relative;} 
+.write_yj_box_text{display: block; width: 640px; height: 452px; margin: 0px auto 0; border: 0px; padding: 18px; font-size: 24px; font-family: "微软雅黑";}
+.write_yj_box_text:hover{border: 0px;}
+.write_yj_box_text:active{border: 0px;}
+.write_yj_box_num{text-align: right; color: #b3b3b3; font-size: 20px; position: absolute; bottom: 0px; right: 10px;}
+.write_yj_box_num span{color: #ff5ebd;}
+
+
+
+
+
+.phone_number_s1{display: block; width: 130px; height: 88px; color: #7c7c7c; font-size: 30px; line-height: 46px; float: left; text-align: right; line-height: 88px;}
+.phone_number_inp{display: block; width: 418px; height: 88px; font-size: 24px; line-height: 88px; float: left; margin-left: 15px; text-indent: 5px; }
+.phone_number_inp:focus{border: 0px;}
+
+.vip_myself_s3{display: block; width: 20px; height: 34px; color: #b3b3b3; font-size: 40px; text-align: center; line-height: 10000px; float: left; background: url("../../../images/meirong/shop/20160718_yy_fwh/jt_sp.png") -105px -1px no-repeat; margin-top: 26px;}
+
+/*意见反馈*/
+.phone_number_box{width: 640px; height: 88px; margin: 20px auto 0; background-color: #fff; }
+.phone_number_event{width: 586px; height: 88px; margin: 0 auto 0;}
+
+.btn_tj_red{display: block; width: 580px; height: 84px; background-color: #ff5ebd; font-size: 30px; color: #ffffff; text-align: center; line-height: 84px; margin: 60px auto 0; text-decoration: none; border-radius: 10px;}
+
+.btn_tj_red_g{display: block; width: 580px; height: 84px; background-color: #b3b3b3; font-size: 30px; color: #ffffff; text-align: center; line-height: 84px; margin: 60px auto 0; text-decoration: none; border-radius: 10px;}
+
+.btn_tj_red:focus{color: #fff;}
+.btn_tj_red_g:focus{color: #fff;}
+

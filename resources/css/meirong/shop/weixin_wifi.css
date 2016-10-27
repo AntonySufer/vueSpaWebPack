@@ -1,0 +1,98 @@
+﻿/* h5通用CSS */
+
+body {
+	padding-top: 0px; /* 60px to make the container go all the way to the bottom of the topbar */
+	font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	background-color: #F0F0F0;
+	line-height: normal;
+		
+      }
+a{cursor:pointer; color:#424242;}
+a:hover{ text-decoration:none; color:#424242;
+} 
+
+
+#footer { clear: both; position: relative; z-index: 10; height: 100px;  }
+	  
+.mtm14{ margin-top:-14px;}	  
+	  
+ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,input,button,b {
+    font-family: "Microsoft YaHei UI", "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
+
+}
+
+ul{ list-style:none;overflow:hidden;}
+a{cursor:pointer;}
+a:hover{ text-decoration:none;}
+
+p{ margin-top:0px; margin-bottom:10px;}
+
+input:focus {
+    border: 1px solid #FF5EBC;
+}
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder { 
+    color:    #B2B2B2;
+}
+input:-moz-placeholder, textarea:-moz-placeholder { 
+    color:    #B2B2B2;
+}
+input::-moz-placeholder, textarea::-moz-placeholder { 
+    color:   #B2B2B2;
+}
+input:-ms-input-placeholder, textarea:-ms-input-placeholder { 
+    color:    #B2B2B2;
+}
+
+
+.shopmanmain {
+  margin: auto;
+  width: 640px;
+  background: #fff;
+  overflow: hidden;
+  padding-bottom: 0px;
+  display:table;
+  min-height:1300px;
+}
+
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:border-box;
+   box-sizing: border-box;
+}
+
+.poi1{ position:relative;}
+.poi2{position: absolute;}
+
+
+
+/*微信扫码连wifi*/
+
+.weixin_wifi_main{ width:100%; padding-top:119px;}
+
+.weixin_wifi_main p{ color:#464646; font-size:30px; line-height:50px;}
+
+.weixin_wifi_main .p1{ text-align:center; margin-bottom:109px;}
+
+.weixin_wifi_main .p2{ margin-left:70px; margin-bottom:44px;}
+
+.weixin_wifi_main .p3{margin-left:70px; margin-bottom:44px; width:465px;}
+
+.weixin_wifi_main  .but_wifipw{ display:inline-block; width:139px; height:50px; line-height:48px; font-size:28px; color:#F57FD7; border:1px solid #F57FD7; border-radius:10px; text-align:center;}
+
+.but_wifitise{display:inline-block;  width:100%; height:100px; line-height:99px; font-size:32px; color:#FFFFFF; background-color:#F57FD7; text-align:center;}
+
+.weixin_wifi_main   .but_copyed{color:#ABABAB;  border:1px solid #ABABAB; }
+
+.but_wifipw_copyed{}
+
+
+
+
+
